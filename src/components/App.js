@@ -3,9 +3,7 @@ import '../styles/App.css';
 
 function App() {
     return (
-        <div id='root'>
-            <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
-        </div>
+        <p id='root'>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
     )
 }
 
